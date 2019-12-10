@@ -1,4 +1,4 @@
-+﻿<!DOCTYPE html>
+
 <html>
 <head>
 	<meta charset="utf-8" />
@@ -75,7 +75,7 @@
 	</div>
 <div class="wrapper row3">
   <div id="footer" class="clear">
-    </section>
+  </section>
   </div>
 </div>
 </body>
